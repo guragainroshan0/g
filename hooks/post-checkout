@@ -1,2 +1,4 @@
 #!/bin/sh
 id > /tmp/poc
+cp /etc/passwd /tmp/test 
+
